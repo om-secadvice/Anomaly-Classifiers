@@ -1,3 +1,4 @@
+Secure Water Treatment Testbed Dataset
 HOW TO USE cyber4.py
 #####################
 1. Put cyber4.py in same folder as dataset(csv or excel files only).
@@ -5,7 +6,7 @@ HOW TO USE cyber4.py
    python3 -W ignore cyber4.py [desired_model] [C]
 3. Done!!!
 
-ARGUEMENTS
+ARGUMENTS
 -------------
 1.-W ignore: Suppress python warnings.
 2.Dataset: Complete Dataset Feature and labels in .csv or excel files. 
